@@ -1,5 +1,3 @@
 # huongsacviet
-# huongsacviet
-# huongsacviet
-# huongsacviet
-# huongsacviet
+
+* This repo is for my company file image
